@@ -19,8 +19,7 @@ Projeto realizado para fins de estudos.
 <br>
 
 <p align="center">
-  <img alt="Preview Projeto" src=".github/preview (1).png
-  " width="100%">
+  <img alt="Preview Projeto" src=".github/preview (1).png" width="100%">
   <img alt="Preview Projeto" src=".github/preview (3).png" width="100%">
 
   <img alt="Preview Projeto" src=".github/preview mob.jpeg" width="100%">
